@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Coin1Test
+comment1.params=y\ box
+comment1.target=Coin1Test(int,\ BoxTest)
+comment2.params=
+comment2.target=int\ getCounter()
+comment3.params=
+comment3.target=void\ setCounter()
+comment4.params=
+comment4.target=javafx.scene.shape.Circle\ getCoin()
+comment5.params=
+comment5.target=java.util.ArrayList\ getList()
+comment6.params=y\ box
+comment6.target=boolean\ dropIn(int,\ BoxTest)
+comment7.params=box
+comment7.target=boolean\ checkWin(BoxTest)
+numComments=8
