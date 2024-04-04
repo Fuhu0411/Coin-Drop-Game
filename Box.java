@@ -1,6 +1,4 @@
-/**
-    NGUYEN PHU HUU LE _ 100356932
-   */
+
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;   
